@@ -1,4 +1,4 @@
-# NutriScan â€” AI Calorie Tracker
+# NutriScan AI Calorie Tracker
 
 A **Django** backend that recognises food from a photo and logs its estimated nutrition.
 Image classification runs on a **TensorFlow/Keras** model; heavy work is offloaded to
